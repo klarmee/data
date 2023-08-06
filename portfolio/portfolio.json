@@ -1,3 +1,9 @@
 {
-	"painting": []
+	"painting": [
+		{
+			"image": "https://kanban.remakeapps.com/assets/images/logo.svg",
+			"name": "Logo",
+			"@type": "Painting"
+		}
+	]
 }
